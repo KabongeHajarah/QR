@@ -2,10 +2,13 @@ body{
    background-color: rgba(214, 216, 218, 0.445);
    text-size-adjust: 100%;
    overflow-x: hidden;
+   margin: 0px;
+   padding: 0px;
 }
 .code-div{
     max-width:200px;
-    margin: 10px;   
+    margin: 10px;  
+
 }
 .theWords{
 margin-left: 20px;
@@ -28,6 +31,7 @@ div img{
     width:240px;
     border-radius:10px ; 
     margin: 10px;
+ 
 }
 .mainDiv{
     background-color: white;
@@ -39,4 +43,5 @@ div img{
     border-radius: 10px;
     margin: 0 auto;
     margin-top:130px;
+    padding:1px;
 }
